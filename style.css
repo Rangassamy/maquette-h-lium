@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Saira+Condensed:wght@500&display=swap");
+
 * {
+  font-family: "Inter";
   padding: 0;
   margin: 0;
   box-sizing: border-box;
